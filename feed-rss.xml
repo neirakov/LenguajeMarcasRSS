@@ -1,0 +1,41 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Las noticias del ayer</title>
+<link>https://www.xataka.com</link>
+<description>Pagina con las mejores noticias del ayer</description>
+
+<item>
+<title>
+<![CDATA[ Primer Articulo ]]>
+</title>
+<link>https://www.xataka.com/movilidad/coche-europeo-se-esta-hundiendo-china-byd-ha-estado-rapida-para-quedarse-su-trono</link>
+<dc:creator>Juan de Pena</dc:creator>
+<description>
+<![CDATA[ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis est vel metus malesuada consectetur. Nam luctus, magna et aliquam ultricies, felis augue pharetra dolor, sit amet dapibus nisi enim a risus. Donec quis bibendum lorem. ]]>
+</description>
+</item>
+
+<item>
+<title>
+<![CDATA[ Segundo Articulo ]]>
+</title>
+<link>https://www.xataka.com/streaming/impredecible-e-inclasificable-trailer-black-mirror-6-promete-que-serie-se-reinventa-a-junio</link>
+<dc:creator>John Tones</dc:creator>
+<description>
+<![CDATA[ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis est vel metus malesuada consectetur. Nam luctus, magna et aliquam ultricies, felis augue pharetra dolor, sit amet dapibus nisi enim a risus. Donec quis bibendum lorem. ]]>
+</description>
+</item>
+
+<item>
+<title>
+<![CDATA[ Tercer articulo ]]>
+</title>
+<link>https://www.xataka.com/streaming/impredecible-e-inclasificable-trailer-black-mirror-6-promete-que-serie-se-reinventa-a-junio</link>
+<dc:creator>Xi Yuan</dc:creator>
+<description>
+<![CDATA[ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis est vel metus malesuada consectetur. Nam luctus, magna et aliquam ultricies, felis augue pharetra dolor, sit amet dapibus nisi enim a risus. Donec quis bibendum lorem. ]]>
+</description>
+</item>
+
+</channel>
+</rss>
